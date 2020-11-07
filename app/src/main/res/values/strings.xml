@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">SimpleMapsLocation</string>
+    <string-array name="location_options">
+        <item>Minha casa na cidade natal</item>
+        <item>Minha casa em Viçosa</item>
+        <item>Meu departamento</item>
+        <item>Fechar aplicação</item>
+    </string-array>
+    <string name="title_activity_location">Map</string>
 </resources>
